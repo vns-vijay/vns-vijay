@@ -1,22 +1,17 @@
-Hi, I'm Vijay Sharma 👋
-🔭 Currently working on:
+### Hi, I'm Vijay Sharma 👋
 
-Developing predictive models for supply chain optimization
-Exploring reinforcement learning for dynamic pricing strategies
-Contributing to open-source projects on optimization algorithms
-🌱 I’m currently learning:
+💬 **Ask me about**:  
+- Operations Research (Optimization, LP, MILP, Discrete Event Optimization)  
+- Data Science tools & techniques (Python, PuLP, scikit-learn, TensorFlow)  
+- Building efficient algorithms for large-scale data problems
 
-Advanced deep learning techniques for time series forecasting
-Natural Language Processing (NLP) for better text data analysis
-Data engineering and cloud solutions (AWS, GCP)
-💬 Ask me about:
+🔭 **Currently working on**:  
+- Developing mathematical optimzation models for retail warehouse operations  
+- Exploring reinforcement learning for dynamic pricing strategies
 
-Operations Research (Optimization, Linear Programming, Stochastic Processes)
-Data Science tools & techniques (Python, R, scikit-learn, TensorFlow)
-Building efficient algorithms for large-scale data problems
-⚡ Fun fact:
+⚡ **Fun fact**:  
+- When I’m not analyzing data, I enjoy reading books
 
-When I’m not analyzing data, I enjoy solving complex puzzles and playing chess ♟️
 
 <!--
 **vns-vijay/vns-vijay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
