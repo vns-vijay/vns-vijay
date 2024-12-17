@@ -1,7 +1,5 @@
 ### Hi, I'm Vijay Sharma 👋
 
-### About Me
-
 I’m a Data Scientist specializing in **Operations Research**, with a passion for solving real-world problems using data-driven approaches. With a background in optimization techniques, I focus on improving business processes and decision-making using mathematical models and algorithms. 
 
 I have experince in supply chain domain and have solved real world problems which includes network optimization, vehicle routing problem, warehouse slotting, pick scheduling, pick path optimization etc. 
